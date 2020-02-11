@@ -22,7 +22,7 @@
 .medio {
   width: 100px;
   height: 100px;
-  background: #00f;
+  background: red;
   display: flex;
   justify-content: center;
   align-items: center;
