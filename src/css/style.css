@@ -20,9 +20,9 @@
 }
 
 .medio {
-  width: 100px;
-  height: 100px;
-  background: red;
+  width: 150px;
+  height: 150px;
+  background: rgb(243, 64, 154);
   display: flex;
   justify-content: center;
   align-items: center;
